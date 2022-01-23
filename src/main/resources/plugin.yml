@@ -1,0 +1,7 @@
+name: MonsterSpawnController
+main: io.github.maple8192.monsterspawncontroller.MonsterSpawnController
+version: '${version}'
+description: 敵性mobが難易度イージー以上でも自然にスポーンしなくするプラグインです。
+api-version: 1.18
+authors: [ Maple8192 ]
+depend: [ KotlinPluginLib ]
